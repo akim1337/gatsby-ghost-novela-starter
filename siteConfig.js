@@ -1,7 +1,7 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://akimba.ru/,
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "Что это? меняет тайтл?",
   siteDescriptionMeta:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   shareImageWidth: 1000,
@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://akimba.ru/contact",
       },
     ],
   },
