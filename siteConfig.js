@@ -14,12 +14,12 @@ module.exports = {
   header: {
     navigation: [
       {
-        label: "Home",
+        label: "Главная",
         url: "https://ghost-novela-preview.draftbox.co/",
       },
       {
-        label: "Contact",
-        url: "https://akimba.ru/contact",
+        label: "Контакты",
+        url: "https://akimba.ru/contact/",
       },
     ],
   },
