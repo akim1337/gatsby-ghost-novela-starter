@@ -1,10 +1,10 @@
    {
         "development": {
             "apiUrl": "https://akimba.ru/",
-            "contentApiKey": "9fccdb0e4ea5b572e2e5b92942"
+            "contentApiKey": "9e1a3c2546dbb39c98f4306f69"
         },
         "production": {
             "apiUrl": "https://akimba.ru/",
-            "contentApiKey": "9fccdb0e4ea5b572e2e5b92942"
+            "contentApiKey": "9e1a3c2546dbb39c98f4306f69"
         }
     }
