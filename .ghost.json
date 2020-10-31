@@ -1,10 +1,10 @@
    {
         "development": {
-            "apiUrl": "https://akimba.ru/",
+            "apiUrl": "http://localhost:2368",
             "contentApiKey": "9e1a3c2546dbb39c98f4306f69"
         },
         "production": {
-            "apiUrl": "https://akimba.ru/",
+            "apiUrl": "http://localhost:2368"
             "contentApiKey": "9e1a3c2546dbb39c98f4306f69"
         }
     }
